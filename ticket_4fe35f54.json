@@ -1,0 +1,23 @@
+{
+  "ticket_id": "4fe35f54-d9e2-4e6d-81eb-41c4a4fcb2db",
+  "priority": "CRITICAL",
+  "node_id": "NODE_05",
+  "gps_coordinates": [
+    41.910478,
+    -87.607628
+  ],
+  "reading": {
+    "timestamp": "2026-01-01 18:00:00",
+    "node_id": "NODE_05",
+    "gps_lat": 41.910478,
+    "gps_lon": -87.607628,
+    "pH": 7.035455515887571,
+    "turbidity_NTU": 4.306218230824751,
+    "dissolved_oxygen_mg_L": 5.928098095800611,
+    "flow_rate_Lps": 28.548566896257654,
+    "anomaly_type": "contamination"
+  },
+  "anomaly_type": "contamination",
+  "timestamp": "2026-07-07T11:38:59.721192",
+  "status": "OPEN"
+}
